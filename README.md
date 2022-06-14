@@ -1,7 +1,7 @@
 # Animator
 
 ## Aim:
-
+To develop a animator using unity.
 ## Algorithm:
 ### Step 1:
 Download 2 crouch idle from maximo 3d. Drag it and drop it in unity asset.
@@ -66,3 +66,4 @@ public class idleToCrouch : MonoBehaviour
 ![image](https://user-images.githubusercontent.com/75235167/173587488-003599cf-7755-48ee-94b0-acbf255d73ba.png)
 
 ## Result:
+Animator using unity is developed successfully.
